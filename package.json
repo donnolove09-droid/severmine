@@ -1,0 +1,9 @@
+{
+  "name": "minicraft-survival-server",
+  "version": "1.0.1-beta",
+  "description": "Máy chủ online beta cho MINICRAFT SURVIVAL",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "ws": "^8.17.0", "mongodb": "^6.8.0" },
+  "engines": { "node": ">=18" }
+}
